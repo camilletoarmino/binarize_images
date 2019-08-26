@@ -4,7 +4,7 @@ Various notebooks and attempts to binarize images and remove graph paper while p
 
 The test_images notebook works best and demonstrates the pipeline. We still have work to do on thresholding certain types of images (more details in that notebook).
 
-Below is an example of the binarization pipeline. It is not optimized for all images but works well for some. 
+Below is the flow of the binarization pipeline. It is not optimized for all images but works well for some. 
 
 ### Convert to Grayscale
 1. Read in image.
