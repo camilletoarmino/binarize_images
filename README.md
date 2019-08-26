@@ -1,6 +1,6 @@
 # Binarize Images
 
-Various notebooks and attempts to binarize images and remove graph paper while preserving mathematical formulas.
+Various notebooks and attempts to binarize images and remove lines/graph paper while preserving mathematical formulas.
 
 The test_images notebook works best and demonstrates the pipeline. We still have work to do on thresholding certain types of images (more details in that notebook).
 
